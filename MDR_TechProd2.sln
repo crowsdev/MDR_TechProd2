@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDR_TechProd2", "MDR_TechProd2\MDR_TechProd2.csproj", "{E72D3089-2D28-43DB-908B-AF5C072A8DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72D3089-2D28-43DB-908B-AF5C072A8DAE}.Debug|x64.ActiveCfg = Debug|x64
+		{E72D3089-2D28-43DB-908B-AF5C072A8DAE}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA18AA4-D420-4463-AFA1-0E4902695696}
+	EndGlobalSection
+EndGlobal
